@@ -17,10 +17,9 @@ Patients (3 classes).
   
 # 2. Basic Models
 
-  a. Building a fully connected neural network. You should try 2 different architectures (many
-  layers vs few)
+  a. Building a fully connected neural network ( Using 2 different architectures many layers vs few ).
   
-  b. Building a convolutional neural network with a classification layer at the end (many layers vs few).
+  b. Building a convolutional neural network with a classification layer at the end ( Using 2 different architectures many layers vs few ).
   
   
 # 3. Improved Models
